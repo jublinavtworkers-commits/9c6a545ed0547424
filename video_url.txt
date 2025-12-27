@@ -1,0 +1,5 @@
+Player URL:
+https://jublinavtworkers-commits.github.io/player/?list=https://raw.githubusercontent.com/jublinavtworkers-commits/9c6a545ed0547424/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/jublinavtworkers-commits/9c6a545ed0547424/refs/heads/master/github_master.m3u8
